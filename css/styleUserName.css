@@ -14,10 +14,10 @@ body
 .login-box
 {
     position:absolute;
-    top:28%;
-    left:41%;
-    width:300px;
-    transform: translate();
+    top:50%;
+    left:50%;
+    width:400px;
+    transform: translate(-50%,-50%);
     color:#EBD5DB;
 }
 .login-box h1
